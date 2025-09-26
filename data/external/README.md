@@ -1,1 +1,1 @@
-External datasets (not synced to GitHub).
+External datasets (not tracked).

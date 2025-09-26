@@ -1,1 +1,1 @@
-Raw input data (not synced to GitHub).
+Raw input data (not stored in GitHub).

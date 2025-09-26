@@ -1,1 +1,1 @@
-Processed data (not synced to GitHub).
+Processed data derived from raw (not tracked).
