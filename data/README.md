@@ -1,1 +1,1 @@
-Raw and processed data are stored locally; not tracked in GitHub.
+Data live outside Git. See repo README for access.
