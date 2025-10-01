@@ -16,6 +16,7 @@ dependencies:
   - seaborn
   - notebook
   - jupyterlab
+  - igraph
   - pip
   - pip:
       - plotly
