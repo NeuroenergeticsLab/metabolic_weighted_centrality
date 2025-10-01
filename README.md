@@ -5,7 +5,7 @@ This repository contains the full analysis pipeline and code to reproduce all re
 
 ## Reproducibility
 
-You can run the provided notebooks to **fully replicate the figures and statistical results** reported in the main paper and supplementary materials.
+You can run the provided notebooks to **replicate the figures and statistical results** reported in the main paper and supplementary materials.
 
 
 ## Folders Description
