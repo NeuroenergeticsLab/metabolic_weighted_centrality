@@ -1,0 +1,21 @@
+name: mwc-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - nibabel
+  - networkx
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - ipykernel
+  - nilearn
+  - seaborn
+  - enigmatoolbox
+  - pip
+  - pip:
+      - plotly
+      - brainsmash
