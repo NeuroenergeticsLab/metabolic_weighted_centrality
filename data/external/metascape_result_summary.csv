@@ -1,0 +1,21 @@
+GO;Category;Description;Count;%;Log10(P);Log10(q)
+GO:0031966;GO Cellular Components;mitochondrial membrane;195;6.57;-36.42;-32.07
+GO:0099177;GO Biological Processes;regulation of trans-synaptic signaling;123;4.14;-22.04;-18.57
+GO:0098793;GO Cellular Components;presynapse;134;4.51;-22.02;-18.57
+GO:0016491;GO Molecular Functions;oxidoreductase activity;159;5.36;-21.61;-18.31
+GO:0000323;GO Cellular Components;lytic vacuole;158;5.32;-19.61;-16.41
+GO:0097447;GO Cellular Components;dendritic tree;134;4.51;-18.42;-15.28
+GO:0048471;GO Cellular Components;perinuclear region of cytoplasm;149;5.02;-17.26;-14.27
+GO:1990351;GO Cellular Components;transporter complex;109;3.67;-17.07;-14.11
+GO:0098794;GO Cellular Components;postsynapse;134;4.51;-16.71;-13.77
+GO:0030424;GO Cellular Components;axon;135;4.55;-16.70;-13.77
+GO:0031012;GO Cellular Components;extracellular matrix;122;4.11;-16.69;-13.77
+GO:0005925;GO Cellular Components;focal adhesion;100;3.37;-16.46;-13.57
+GO:0099536;GO Biological Processes;synaptic signaling;103;3.47;-15.07;-12.26
+GO:0070201;GO Biological Processes;regulation of establishment of protein localization;114;3.84;-14.97;-12.19
+GO:0090066;GO Biological Processes;regulation of anatomical structure size;110;3.70;-14.48;-11.71
+GO:1902074;GO Biological Processes;response to salt;89;3.00;-14.33;-11.59
+GO:0000139;GO Cellular Components;Golgi membrane;132;4.45;-14.29;-11.55
+GO:0005759;GO Cellular Components;mitochondrial matrix;105;3.54;-14.13;-11.43
+GO:0030162;GO Biological Processes;regulation of proteolysis;121;4.08;-13.89;-11.22
+GO:0031252;GO Cellular Components;cell leading edge;94;3.17;-13.54;-10.92

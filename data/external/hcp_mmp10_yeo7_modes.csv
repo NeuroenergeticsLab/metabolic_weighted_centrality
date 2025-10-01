@@ -1,0 +1,361 @@
+"ROI_Number";"ROI_Name";"Yeo_Number";"yeo_7_nw"
+1;R_V1_ROI;1;Visual
+2;R_MST_ROI;1;Visual
+3;R_V6_ROI;1;Visual
+4;R_V2_ROI;1;Visual
+5;R_V3_ROI;1;Visual
+6;R_V4_ROI;1;Visual
+7;R_V8_ROI;1;Visual
+8;R_4_ROI;2;Somatomotor
+9;R_3b_ROI;2;Somatomotor
+10;R_FEF_ROI;3;Dorsal Attention
+11;R_PEF_ROI;3;Dorsal Attention
+12;R_55b_ROI;4;Ventral Attention
+13;R_V3A_ROI;1;Visual
+14;R_RSC_ROI;7;Default
+15;R_POS2_ROI;6;Frontoparietal
+16;R_V7_ROI;1;Visual
+17;R_IPS1_ROI;1;Visual
+18;R_FFC_ROI;1;Visual
+19;R_V3B_ROI;1;Visual
+20;R_LO1_ROI;1;Visual
+21;R_LO2_ROI;1;Visual
+22;R_PIT_ROI;1;Visual
+23;R_MT_ROI;1;Visual
+24;R_A1_ROI;2;Somatomotor
+25;R_PSL_ROI;4;Ventral Attention
+26;R_SFL_ROI;7;Default
+27;R_PCV_ROI;3;Dorsal Attention
+28;R_STV_ROI;4;Ventral Attention
+29;R_7Pm_ROI;6;Frontoparietal
+30;R_7m_ROI;7;Default
+31;R_POS1_ROI;7;Default
+32;R_23d_ROI;7;Default
+33;R_v23ab_ROI;7;Default
+34;R_d23ab_ROI;7;Default
+35;R_31pv_ROI;7;Default
+36;R_5m_ROI;2;Somatomotor
+37;R_5mv_ROI;4;Ventral Attention
+38;R_23c_ROI;4;Ventral Attention
+39;R_5L_ROI;2;Somatomotor
+40;R_24dd_ROI;2;Somatomotor
+41;R_24dv_ROI;2;Somatomotor
+42;R_7AL_ROI;3;Dorsal Attention
+43;R_SCEF_ROI;4;Ventral Attention
+44;R_6ma_ROI;4;Ventral Attention
+45;R_7Am_ROI;3;Dorsal Attention
+46;R_7PL_ROI;3;Dorsal Attention
+47;R_7PC_ROI;3;Dorsal Attention
+48;R_LIPv_ROI;3;Dorsal Attention
+49;R_VIP_ROI;3;Dorsal Attention
+50;R_MIP_ROI;3;Dorsal Attention
+51;R_1_ROI;2;Somatomotor
+52;R_2_ROI;2;Somatomotor
+53;R_3a_ROI;2;Somatomotor
+54;R_6d_ROI;2;Somatomotor
+55;R_6mp_ROI;2;Somatomotor
+56;R_6v_ROI;2;Somatomotor
+57;R_p24pr_ROI;4;Ventral Attention
+58;R_33pr_ROI;4;Ventral Attention
+59;R_a24pr_ROI;4;Ventral Attention
+60;R_p32pr_ROI;4;Ventral Attention
+61;R_a24_ROI;7;Default
+62;R_d32_ROI;7;Default
+63;R_8BM_ROI;6;Frontoparietal
+64;R_p32_ROI;7;Default
+65;R_10r_ROI;7;Default
+66;R_47m_ROI;7;Default
+67;R_8Av_ROI;6;Frontoparietal
+68;R_8Ad_ROI;7;Default
+69;R_9m_ROI;7;Default
+70;R_8BL_ROI;7;Default
+71;R_9p_ROI;7;Default
+72;R_10d_ROI;7;Default
+73;R_8C_ROI;6;Frontoparietal
+74;R_44_ROI;6;Frontoparietal
+75;R_45_ROI;7;Default
+76;R_47l_ROI;7;Default
+77;R_a47r_ROI;6;Frontoparietal
+78;R_6r_ROI;4;Ventral Attention
+79;R_IFJa_ROI;6;Frontoparietal
+80;R_IFJp_ROI;3;Dorsal Attention
+81;R_IFSp_ROI;6;Frontoparietal
+82;R_IFSa_ROI;6;Frontoparietal
+83;R_p9-46v_ROI;6;Frontoparietal
+84;R_46_ROI;6;Frontoparietal
+85;R_a9-46v_ROI;6;Frontoparietal
+86;R_9-46d_ROI;6;Frontoparietal
+87;R_9a_ROI;7;Default
+88;R_10v_ROI;5;Limbic
+89;R_a10p_ROI;6;Frontoparietal
+90;R_10pp_ROI;5;Limbic
+91;R_11l_ROI;6;Frontoparietal
+92;R_13l_ROI;5;Limbic
+93;R_OFC_ROI;5;Limbic
+94;R_47s_ROI;7;Default
+95;R_LIPd_ROI;3;Dorsal Attention
+96;R_6a_ROI;3;Dorsal Attention
+97;R_i6-8_ROI;6;Frontoparietal
+98;R_s6-8_ROI;6;Frontoparietal
+99;R_43_ROI;2;Somatomotor
+100;R_OP4_ROI;2;Somatomotor
+101;R_OP1_ROI;2;Somatomotor
+102;R_OP2-3_ROI;2;Somatomotor
+103;R_52_ROI;2;Somatomotor
+104;R_RI_ROI;2;Somatomotor
+105;R_PFcm_ROI;4;Ventral Attention
+106;R_PoI2_ROI;4;Ventral Attention
+107;R_TA2_ROI;2;Somatomotor
+108;R_FOP4_ROI;4;Ventral Attention
+109;R_MI_ROI;4;Ventral Attention
+110;R_Pir_ROI;5;Limbic
+111;R_AVI_ROI;6;Frontoparietal
+112;R_AAIC_ROI;4;Ventral Attention
+113;R_FOP1_ROI;4;Ventral Attention
+114;R_FOP3_ROI;4;Ventral Attention
+115;R_FOP2_ROI;2;Somatomotor
+116;R_PFt_ROI;3;Dorsal Attention
+117;R_AIP_ROI;3;Dorsal Attention
+118;R_EC_ROI;5;Limbic
+119;R_PreS_ROI;1;Visual
+120;R_H_ROI;5;Limbic
+121;R_ProS_ROI;1;Visual
+122;R_PeEc_ROI;5;Limbic
+123;R_STGa_ROI;7;Default
+124;R_PBelt_ROI;2;Somatomotor
+125;R_A5_ROI;2;Somatomotor
+126;R_PHA1_ROI;1;Visual
+127;R_PHA3_ROI;1;Visual
+128;R_STSda_ROI;7;Default
+129;R_STSdp_ROI;7;Default
+130;R_STSvp_ROI;7;Default
+131;R_TGd_ROI;5;Limbic
+132;R_TE1a_ROI;7;Default
+133;R_TE1p_ROI;6;Frontoparietal
+134;R_TE2a_ROI;5;Limbic
+135;R_TF_ROI;5;Limbic
+136;R_TE2p_ROI;3;Dorsal Attention
+137;R_PHT_ROI;3;Dorsal Attention
+138;R_PH_ROI;3;Dorsal Attention
+139;R_TPOJ1_ROI;4;Ventral Attention
+140;R_TPOJ2_ROI;3;Dorsal Attention
+141;R_TPOJ3_ROI;3;Dorsal Attention
+142;R_DVT_ROI;1;Visual
+143;R_PGp_ROI;3;Dorsal Attention
+144;R_IP2_ROI;6;Frontoparietal
+145;R_IP1_ROI;6;Frontoparietal
+146;R_IP0_ROI;3;Dorsal Attention
+147;R_PFop_ROI;4;Ventral Attention
+148;R_PF_ROI;4;Ventral Attention
+149;R_PFm_ROI;6;Frontoparietal
+150;R_PGi_ROI;7;Default
+151;R_PGs_ROI;7;Default
+152;R_V6A_ROI;1;Visual
+153;R_VMV1_ROI;1;Visual
+154;R_VMV3_ROI;1;Visual
+155;R_PHA2_ROI;1;Visual
+156;R_V4t_ROI;1;Visual
+157;R_FST_ROI;3;Dorsal Attention
+158;R_V3CD_ROI;1;Visual
+159;R_LO3_ROI;1;Visual
+160;R_VMV2_ROI;1;Visual
+161;R_31pd_ROI;7;Default
+162;R_31a_ROI;7;Default
+163;R_VVC_ROI;1;Visual
+164;R_25_ROI;5;Limbic
+165;R_s32_ROI;7;Default
+166;R_pOFC_ROI;5;Limbic
+167;R_PoI1_ROI;4;Ventral Attention
+168;R_Ig_ROI;2;Somatomotor
+169;R_FOP5_ROI;4;Ventral Attention
+170;R_p10p_ROI;6;Frontoparietal
+171;R_p47r_ROI;6;Frontoparietal
+172;R_TGv_ROI;5;Limbic
+173;R_MBelt_ROI;2;Somatomotor
+174;R_LBelt_ROI;2;Somatomotor
+175;R_A4_ROI;2;Somatomotor
+176;R_STSva_ROI;7;Default
+177;R_TE1m_ROI;7;Default
+178;R_PI_ROI;4;Ventral Attention
+179;R_a32pr_ROI;6;Frontoparietal
+180;R_p24_ROI;7;Default
+181;L_V1_ROI;1;Visual
+182;L_MST_ROI;3;Dorsal Attention
+183;L_V6_ROI;1;Visual
+184;L_V2_ROI;1;Visual
+185;L_V3_ROI;1;Visual
+186;L_V4_ROI;1;Visual
+187;L_V8_ROI;1;Visual
+188;L_4_ROI;2;Somatomotor
+189;L_3b_ROI;2;Somatomotor
+190;L_FEF_ROI;3;Dorsal Attention
+191;L_PEF_ROI;3;Dorsal Attention
+192;L_55b_ROI;7;Default
+193;L_V3A_ROI;1;Visual
+194;L_RSC_ROI;7;Default
+195;L_POS2_ROI;6;Frontoparietal
+196;L_V7_ROI;1;Visual
+197;L_IPS1_ROI;3;Dorsal Attention
+198;L_FFC_ROI;1;Visual
+199;L_V3B_ROI;1;Visual
+200;L_LO1_ROI;1;Visual
+201;L_LO2_ROI;1;Visual
+202;L_PIT_ROI;1;Visual
+203;L_MT_ROI;1;Visual
+204;L_A1_ROI;2;Somatomotor
+205;L_PSL_ROI;4;Ventral Attention
+206;L_SFL_ROI;7;Default
+207;L_PCV_ROI;7;Default
+208;L_STV_ROI;7;Default
+209;L_7Pm_ROI;6;Frontoparietal
+210;L_7m_ROI;7;Default
+211;L_POS1_ROI;7;Default
+212;L_23d_ROI;7;Default
+213;L_v23ab_ROI;7;Default
+214;L_d23ab_ROI;7;Default
+215;L_31pv_ROI;7;Default
+216;L_5m_ROI;2;Somatomotor
+217;L_5mv_ROI;4;Ventral Attention
+218;L_23c_ROI;4;Ventral Attention
+219;L_5L_ROI;2;Somatomotor
+220;L_24dd_ROI;2;Somatomotor
+221;L_24dv_ROI;2;Somatomotor
+222;L_7AL_ROI;3;Dorsal Attention
+223;L_SCEF_ROI;4;Ventral Attention
+224;L_6ma_ROI;4;Ventral Attention
+225;L_7Am_ROI;3;Dorsal Attention
+226;L_7PL_ROI;3;Dorsal Attention
+227;L_7PC_ROI;3;Dorsal Attention
+228;L_LIPv_ROI;3;Dorsal Attention
+229;L_VIP_ROI;3;Dorsal Attention
+230;L_MIP_ROI;3;Dorsal Attention
+231;L_1_ROI;2;Somatomotor
+232;L_2_ROI;2;Somatomotor
+233;L_3a_ROI;2;Somatomotor
+234;L_6d_ROI;2;Somatomotor
+235;L_6mp_ROI;2;Somatomotor
+236;L_6v_ROI;2;Somatomotor
+237;L_p24pr_ROI;4;Ventral Attention
+238;L_33pr_ROI;6;Frontoparietal
+239;L_a24pr_ROI;4;Ventral Attention
+240;L_p32pr_ROI;4;Ventral Attention
+241;L_a24_ROI;7;Default
+242;L_d32_ROI;7;Default
+243;L_8BM_ROI;7;Default
+244;L_p32_ROI;7;Default
+245;L_10r_ROI;7;Default
+246;L_47m_ROI;7;Default
+247;L_8Av_ROI;7;Default
+248;L_8Ad_ROI;7;Default
+249;L_9m_ROI;7;Default
+250;L_8BL_ROI;7;Default
+251;L_9p_ROI;7;Default
+252;L_10d_ROI;7;Default
+253;L_8C_ROI;6;Frontoparietal
+254;L_44_ROI;7;Default
+255;L_45_ROI;7;Default
+256;L_47l_ROI;7;Default
+257;L_a47r_ROI;7;Default
+258;L_6r_ROI;4;Ventral Attention
+259;L_IFJa_ROI;6;Frontoparietal
+260;L_IFJp_ROI;6;Frontoparietal
+261;L_IFSp_ROI;6;Frontoparietal
+262;L_IFSa_ROI;6;Frontoparietal
+263;L_p9-46v_ROI;6;Frontoparietal
+264;L_46_ROI;6;Frontoparietal
+265;L_a9-46v_ROI;6;Frontoparietal
+266;L_9-46d_ROI;6;Frontoparietal
+267;L_9a_ROI;7;Default
+268;L_10v_ROI;5;Limbic
+269;L_a10p_ROI;7;Default
+270;L_10pp_ROI;5;Limbic
+271;L_11l_ROI;6;Frontoparietal
+272;L_13l_ROI;5;Limbic
+273;L_OFC_ROI;5;Limbic
+274;L_47s_ROI;7;Default
+275;L_LIPd_ROI;3;Dorsal Attention
+276;L_6a_ROI;3;Dorsal Attention
+277;L_i6-8_ROI;6;Frontoparietal
+278;L_s6-8_ROI;7;Default
+279;L_43_ROI;4;Ventral Attention
+280;L_OP4_ROI;2;Somatomotor
+281;L_OP1_ROI;2;Somatomotor
+282;L_OP2-3_ROI;2;Somatomotor
+283;L_52_ROI;2;Somatomotor
+284;L_RI_ROI;2;Somatomotor
+285;L_PFcm_ROI;4;Ventral Attention
+286;L_PoI2_ROI;4;Ventral Attention
+287;L_TA2_ROI;2;Somatomotor
+288;L_FOP4_ROI;4;Ventral Attention
+289;L_MI_ROI;4;Ventral Attention
+290;L_Pir_ROI;5;Limbic
+291;L_AVI_ROI;6;Frontoparietal
+292;L_AAIC_ROI;7;Default
+293;L_FOP1_ROI;4;Ventral Attention
+294;L_FOP3_ROI;4;Ventral Attention
+295;L_FOP2_ROI;4;Ventral Attention
+296;L_PFt_ROI;3;Dorsal Attention
+297;L_AIP_ROI;3;Dorsal Attention
+298;L_EC_ROI;5;Limbic
+299;L_PreS_ROI;1;Visual
+300;L_H_ROI;5;Limbic
+301;L_ProS_ROI;1;Visual
+302;L_PeEc_ROI;5;Limbic
+303;L_STGa_ROI;7;Default
+304;L_PBelt_ROI;2;Somatomotor
+305;L_A5_ROI;2;Somatomotor
+306;L_PHA1_ROI;1;Visual
+307;L_PHA3_ROI;1;Visual
+308;L_STSda_ROI;7;Default
+309;L_STSdp_ROI;7;Default
+310;L_STSvp_ROI;7;Default
+311;L_TGd_ROI;5;Limbic
+312;L_TE1a_ROI;7;Default
+313;L_TE1p_ROI;7;Default
+314;L_TE2a_ROI;5;Limbic
+315;L_TF_ROI;5;Limbic
+316;L_TE2p_ROI;3;Dorsal Attention
+317;L_PHT_ROI;3;Dorsal Attention
+318;L_PH_ROI;3;Dorsal Attention
+319;L_TPOJ1_ROI;2;Somatomotor
+320;L_TPOJ2_ROI;4;Ventral Attention
+321;L_TPOJ3_ROI;3;Dorsal Attention
+322;L_DVT_ROI;1;Visual
+323;L_PGp_ROI;3;Dorsal Attention
+324;L_IP2_ROI;6;Frontoparietal
+325;L_IP1_ROI;6;Frontoparietal
+326;L_IP0_ROI;1;Visual
+327;L_PFop_ROI;4;Ventral Attention
+328;L_PF_ROI;4;Ventral Attention
+329;L_PFm_ROI;7;Default
+330;L_PGi_ROI;7;Default
+331;L_PGs_ROI;7;Default
+332;L_V6A_ROI;1;Visual
+333;L_VMV1_ROI;1;Visual
+334;L_VMV3_ROI;1;Visual
+335;L_PHA2_ROI;1;Visual
+336;L_V4t_ROI;1;Visual
+337;L_FST_ROI;3;Dorsal Attention
+338;L_V3CD_ROI;1;Visual
+339;L_LO3_ROI;1;Visual
+340;L_VMV2_ROI;1;Visual
+341;L_31pd_ROI;7;Default
+342;L_31a_ROI;7;Default
+343;L_VVC_ROI;1;Visual
+344;L_25_ROI;5;Limbic
+345;L_s32_ROI;5;Limbic
+346;L_pOFC_ROI;5;Limbic
+347;L_PoI1_ROI;4;Ventral Attention
+348;L_Ig_ROI;2;Somatomotor
+349;L_FOP5_ROI;4;Ventral Attention
+350;L_p10p_ROI;7;Default
+351;L_p47r_ROI;6;Frontoparietal
+352;L_TGv_ROI;5;Limbic
+353;L_MBelt_ROI;2;Somatomotor
+354;L_LBelt_ROI;2;Somatomotor
+355;L_A4_ROI;2;Somatomotor
+356;L_STSva_ROI;7;Default
+357;L_TE1m_ROI;7;Default
+358;L_PI_ROI;4;Ventral Attention
+359;L_a32pr_ROI;6;Frontoparietal
+360;L_p24_ROI;7;Default
