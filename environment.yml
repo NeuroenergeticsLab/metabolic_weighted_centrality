@@ -14,8 +14,8 @@ dependencies:
   - ipykernel
   - nilearn
   - seaborn
-  - enigmatoolbox
   - pip
   - pip:
       - plotly
       - brainsmash
+      - enigmatoolbox
